@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Balay",
+    "calendar": "Kalendaryo",
+    "camera": "Kamera",
+    "guide": "Giya",
+    "weather": "Panahon",
+    "map": "Mapa"
+  },
+  "home": {
+    "title": "Pagtuki sa Sakit sa Humay",
+    "subtitle": "Pag-upload o pagkuha og hulagway aron mailhan ang mga sakit sa humay",
+    "trivia": {
+      "title": "Trivia sa Sakit",
+      "readMore": "Basaha Pa"
+    }
+  },
+  "weather": {
+    "current": "Kasamtangang Panahon",
+    "forecast": "7-Ka Adlaw nga Tagna",
+    "humidity": "Kahumot",
+    "temperature": "Temperatura",
+    "pressure": "Presyon",
+    "wind": "Kusog sa Hangin",
+    "feelsLike": "Gibati",
+    "min": "Pinakaubos",
+    "max": "Pinakataas",
+    "precip": "ulan",
+    "farmingTips": "Mga Tambag sa Pagpanguma",
+    "tips": {
+      "sunny": "Perpekto nga kondisyon para sa paggamit og pestisidyo ug pag-ani.",
+      "rain": "Bantayi ang lebel sa tubig ug drainage system.",
+      "temperature": "Bantayi ang stress sa mga tanom tungod sa temperatura."
+    }
+  }
+}

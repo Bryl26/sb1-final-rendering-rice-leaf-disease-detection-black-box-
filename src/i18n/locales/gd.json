@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Balay",
+    "calendar": "Calendario",
+    "camera": "Camera",
+    "guide": "Guide",
+    "weather": "Tiempo",
+    "map": "Mapa"
+  },
+  "home": {
+    "title": "Panakaammu ti Sakit ti Pagay",
+    "subtitle": "Agipan wenno mangala ti retrato tapno maammo dagiti sakit ti pagay",
+    "trivia": {
+      "title": "Trivia ti Sakit",
+      "readMore": "Basaen Pay"
+    }
+  },
+  "weather": {
+    "current": "Agdama nga Tiempo",
+    "forecast": "7-Aldaw a Forecast",
+    "humidity": "Humidity",
+    "temperature": "Temperatura",
+    "pressure": "Presion",
+    "wind": "Bileg ti Angin",
+    "feelsLike": "Kasla",
+    "min": "Kababbaan",
+    "max": "Kangatoan",
+    "precip": "tudo",
+    "farmingTips": "Tips ti Panagtalon",
+    "tips": {
+      "sunny": "Nasayaat a tiempo para iti panangusar ti pesticide ken panagani.",
+      "rain": "Bantayan ti level ti danum ken drainage system.",
+      "temperature": "Bantayan ti stress dagiti mula gapu iti temperatura."
+    }
+  }
+}

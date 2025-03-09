@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Balay",
+    "calendar": "Kalendario",
+    "camera": "Kamera",
+    "guide": "Giya",
+    "weather": "Tiempo",
+    "map": "Mapa"
+  },
+  "home": {
+    "title": "Panangammo ti Sakit ti Pagay",
+    "subtitle": "Agipan wenno agala ti retrato tapno maammoan dagiti sakit ti pagay",
+    "trivia": {
+      "title": "Trivia ti Sakit",
+      "readMore": "Basaen Pay"
+    }
+  },
+  "weather": {
+    "current": "Agdama a Tiempo",
+    "forecast": "7-Aldaw a Pagpakitan",
+    "humidity": "Humidity",
+    "temperature": "Temperatura",
+    "pressure": "Presion",
+    "wind": "Bileg ti Angin",
+    "feelsLike": "Kasla",
+    "min": "Kababbaan",
+    "max": "Kangatoan",
+    "precip": "tudo",
+    "farmingTips": "Balakad ti Panagtalon",
+    "tips": {
+      "sunny": "Nasayaat a tiempo para iti panangusar ti pestisidio ken panagani.",
+      "rain": "Bantayan ti level ti danum ken drainage system.",
+      "temperature": "Bantayan ti stress dagiti mula gapu iti temperatura."
+    }
+  }
+}

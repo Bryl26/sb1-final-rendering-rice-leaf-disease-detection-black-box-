@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "home": "Home",
+    "calendar": "Calendar",
+    "camera": "Camera",
+    "guide": "Guide",
+    "weather": "Weather",
+    "map": "About"
+  },
+  "home": {
+    "title": "Rice Disease Detection",
+    "subtitle": "Upload or capture images to detect rice diseases",
+    "features": {
+      "detection": "Advanced Detection",
+      "detectionDesc": "Enhanced ResNet50 architecture for classifying 14 distinct rice diseases",
+      "analysis": "Intelligent Analysis",
+      "analysisDesc": "Optimized feature extraction and classification accuracy",
+      "learning": "Transfer Learning",
+      "learningDesc": "Pre-trained weights for improved accuracy with limited data",
+      "accuracy": "High Accuracy",
+      "accuracyDesc": "99% classification accuracy in experimental results"
+    }
+  }
+}

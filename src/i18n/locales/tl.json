@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Tahanan",
+    "calendar": "Kalendaryo",
+    "camera": "Kamera",
+    "guide": "Gabay",
+    "weather": "Panahon",
+    "map": "Mapa"
+  },
+  "home": {
+    "title": "Pagtukoy ng Sakit ng Palay",
+    "subtitle": "Mag-upload o kumuha ng mga larawan upang matukoy ang mga sakit ng palay",
+    "trivia": {
+      "title": "Trivia sa Sakit",
+      "readMore": "Magbasa Pa"
+    }
+  },
+  "weather": {
+    "current": "Kasalukuyang Panahon",
+    "forecast": "7-Araw na Pagtataya",
+    "humidity": "Halumigmig",
+    "temperature": "Temperatura",
+    "pressure": "Presyon",
+    "wind": "Bilis ng Hangin",
+    "feelsLike": "Pakiramdam",
+    "min": "Pinakamababa",
+    "max": "Pinakamataas",
+    "precip": "pag-ulan",
+    "farmingTips": "Mga Tip sa Pagsasaka ayon sa Panahon",
+    "tips": {
+      "sunny": "Perpektong kondisyon para sa paggamit ng pestisidyo at pag-aani.",
+      "rain": "Subaybayan ang antas ng tubig at sistema ng drainage.",
+      "temperature": "Bantayan ang stress sa temperatura ng mga halaman."
+    }
+  }
+}
